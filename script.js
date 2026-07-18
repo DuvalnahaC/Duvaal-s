@@ -1,15 +1,4 @@
-Portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-│   ├── profile.jpg
-│   ├── cv.pdf
-│   ├── project1.jpg
-│   ├── project2.jpg
-│   ├── certificate1.jpg
-│   └── ...
-│
-└── README.md
+// Efek sederhana saat halaman pertama kali dimuat
+window.addEventListener('DOMContentLoaded', () => {
+    console.log("Portfolio Duvaal berhasil dimuat dengan aman!");
+});
